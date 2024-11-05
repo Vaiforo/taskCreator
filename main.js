@@ -1,0 +1,1 @@
+const tasksManager = new TasksManager();
